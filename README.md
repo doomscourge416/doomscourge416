@@ -4,7 +4,7 @@
 
 - 😎 Cant wait to try myself at new profession
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doomscourge416&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomscourge416)](https://github.com/anuraghazra&layout=compact/github-readme-stats)
 <!--
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
