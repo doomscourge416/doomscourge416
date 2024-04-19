@@ -2,7 +2,7 @@
 - 🎓 I’m a Student of Online Programming School - Skillfactory.
 - ✍🏻 I’m currently learning programming languages, such as HTML, PHP, JavaScript, CSS, and others.
 
-- 😎 Cant wait to try myself at new profession
+- 😎 Can not wait to try myself at new profession
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomscourge416)](https://github.com/anuraghazra&layout=compact/github-readme-stats)
 <!--
