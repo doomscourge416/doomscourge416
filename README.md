@@ -6,7 +6,7 @@
 
 <figure><embed src="https://wakatime.com/share/@doomscourge416/2a73af96-e189-4020-9e95-083a7eb3c32f.svg"></embed></figure>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doomscourge416)]
+[Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doomscourge416)
 <!--
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
