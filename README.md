@@ -4,7 +4,7 @@
 
 - 😎 Can not wait to try myself at new profession
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doomscourge416&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=onedark) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=doomscourge416&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
