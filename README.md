@@ -1,4 +1,4 @@
-- 👋<h3 style="text-align: center;"> Hi, my name is Pavel.</h3>
+- 👋 Hi, my name is Pavel.
 - 🎓 I’m a Student of Online Programming School - Skillfactory.
 - ✍🏻 I’m currently learning programming languages, such as HTML, PHP, JavaScript, CSS, and others.
 
